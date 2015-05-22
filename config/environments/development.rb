@@ -6,6 +6,8 @@ Rails.application.configure do
   # since you don't have to restart the web server when you make code changes.
   config.cache_classes = false
 
+    # To fix problem where app was not showing up properly
+    config.assets.compile = true
   # Do not eager load code on boot.
   config.eager_load = false
 
