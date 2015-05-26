@@ -1,0 +1,16 @@
+//@import 'bootstrap';
+$baseFontFamily: Oxygen;
+@import url(http://fonts.googleapis.com/css?family=oxygen);
+//varibles
+$graylight: rgb(167, 0, 0);
+body {
+    padding-top: 60px;
+}
+
+.footer {
+    margin-top: 50px;
+    color: $graylight;
+    a {
+        color: gray;
+    }
+}
