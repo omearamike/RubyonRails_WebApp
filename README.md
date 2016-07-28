@@ -1,6 +1,9 @@
-# ONe Month Rails
+# Ruby on Rails WebApp from the One Month Rails Tutorial
 
-This is the simple application for one moneth rails to teach yourself Ruby on rails
+This is the simple application from the 'One Month Rails' to teach yourself Ruby on rails online tutorial course.
 
 
-by michael o meara
+# Key Technologies
+- Ruby on Rails
+- MYSQL
+- Command Line
